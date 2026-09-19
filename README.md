@@ -10,6 +10,7 @@
 ## 📫 Connect with Me
 - 📧 Email: gilbert.setiawan685@gmail.com
 - 🐙 GitHub: https://github.com/GilbertSetiawan
+- 🟦 LinkedIn : https://www.linkedin.com/in/gilbert-brian-setiawan-104a42368/
 
 ## 🛠️ Tech Stack & Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
